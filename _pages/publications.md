@@ -11,7 +11,7 @@ Liu X, Melcher D, Carrasco M & **Hanning NM** (2023). The extrafoveal preview ef
 
 Kwak Y, Zhao Y, Lu ZL, **Hanning NM** & Carrasco M (2023). Presaccadic attention enhances and reshapes the Contrast Sensitivity Function around the visual field. *bioRxiv*.<br/>[Link to paper](https://www.biorxiv.org/content/10.1101/2023.11.16.567379.abstract){:target="_blank"}
 
-
+<br/>
 **peer-reviewed publications**
 
 **Hanning NM**, Himmelberg MM & Carrasco M (in press). Presaccadic attention depends on eye movement direction and is related to V1 cortical magnification. *Journal of Neuroscience*.
